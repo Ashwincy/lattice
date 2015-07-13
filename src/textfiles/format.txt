@@ -1,0 +1,14 @@
+=================================
+| Format of the challenge files |
+=================================
+
+line #1:	Challenge lattice dimension m
+line #2:	Reference dimension n(m)
+line #3:	Modulus q
+line #4:        σ  
+line #5:	Vector b of the length m
+lines #6-(6+m): Matrix A
+
+All entries are in NTL I/O [http://www.shoup.net/ntl] format.
+
+The PI source file contains the sequence pi_1, pi_2, ... as defined in [2].

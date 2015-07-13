@@ -1,0 +1,16 @@
+# m|norm|name|vector|email|notes|date
+9|285|Ashwin|[1 2 3 4 5 6 7 8 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+8|313|Ashwinkumar|[ 3 -4 -5 6 8 9 1 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+8|313|Ashwin|[ 3 -4 -5 6 8 9 1 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+8|313|Ashwin|[ 3 -4 -5 6 8 9 1 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+8|313|Ashwin|[ 3 -4 -5 6 8 9 1 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+8|313|Ashwin|[ 3 -4 -5 6 8 9 1 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+9|285|Ashwinkumar|[1 2 3 4 5 6 7 8 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+9|285|Ashwinkumar|[1 2 3 4 5 6 7 8 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+8|313|Ashwin|[ 3 -4 -5 6 8 9 1 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+9|285|Ashwin|[1 2 3 4 5 6 7 8 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+8|313|Ashwin|[ 3 -4 -5 6 8 9 1 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
+18|664|peter|[1 4 5 6 7 3 4 5 6 7 8 8 9 8 0 -1 8 8]|peter@peter.com|hall of fame||||2015-07-8
+28|1088|robert|[1 4 5 6 7 3 4 5 6 7 8 8 9 8 0 -1 8 8 8 5 6 4 9 6 2 9 9 0]|robert@roby.com|whatever||||2015-07-8
+24|899|patrik|[1 4 5 6 7 3 4 5 6 7 8 8 9 8 0 -1 8 4 9 6 2 9 9 0]|peter@peter.com|hall of fame||||2015-07-8
+24|935|Ashwin|[1 4 5 6 7 3 4 5 6 7 8 8 9 8 0 -1 8 8 4 5 6 7 8 9]|ashwinkumar.cy@gmail.com|hall of fame||||2015-07-8
